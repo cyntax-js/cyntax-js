@@ -55,4 +55,4 @@ Languages and tools:
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samuel-2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/samuel-2001/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CYNTAX/CYNTAX/blob/output/github-contribution-grid-snake.svg)
