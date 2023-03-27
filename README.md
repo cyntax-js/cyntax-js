@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7569D&width=435&lines=I+learn+something+new+every+day.)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=Alejandroq12&color=green&style=flat-square)
+![](https://komarev.com/ghpvc/?username=samuel-2001&color=green&style=flat-square)
 
 
 <!--
