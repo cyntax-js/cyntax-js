@@ -51,8 +51,6 @@ Languages and tools:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Samuel-2001&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samuel-2001&count_private=true&theme=radical)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-2001&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samuel-2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
