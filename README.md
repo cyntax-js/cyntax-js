@@ -15,7 +15,7 @@
 
 🌱 I am currently learning Solidity, as well as Cryptography. 
 
-👯 I'm looking to collaborate with people from all over the world.tt
+👯 I'm looking to collaborate with people from all over the world.
 
 😄 I speak  English .
 
