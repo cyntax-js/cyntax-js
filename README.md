@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there I am Cyntax. 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7569D&width=435&lines=The+Interface+Alchemist.)](https://git.io/typing-svg)
+
 ![](https://komarev.com/ghpvc/?username=samuel-2001&color=green&style=flat-square)
 <!--
 **Alejandroq12/Alejandroq12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
