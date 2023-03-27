@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-🔭 I'm currently working on a React + Next.js & solidity application.
+🔭 I'm currently working on a Decentralized marketplace.
+
+💬 Ask me about JavaScript, Frontend development, JAMstack.
 
 📫 How to reach me: samuelify225@gmail.com
 
