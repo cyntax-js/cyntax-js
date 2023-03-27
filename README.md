@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=samuel-2001&color=green&style=flat-square)
 
-
 <!--
 **Alejandroq12/Alejandroq12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,6 +47,7 @@ Languages and tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Samuel-2001&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
