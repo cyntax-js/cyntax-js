@@ -1,9 +1,9 @@
 
-### <h1>Hi there I am Cyntax. 👋</h1>
-### <div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7569D&width=435&lines=The+Interface+Alchemist.)](https://git.io/typing-svg) </div>
+<h1>Hi there I am Cyntax. 👋</h1>
 
-![](https://komarev.com/ghpvc/?username=samuel-2001&color=green&style=flat-square)
+## <div>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=3000&color=F7569D&width=435&lines=The+Interface+Alchemist.)](https://git.io/typing-svg) </div>
+
+## ![](https://komarev.com/ghpvc/?username=samuel-2001&color=green&style=flat-square)
 
 🔭 I'm currently working on a Decentralized marketplace.
 
