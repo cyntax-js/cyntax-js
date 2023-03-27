@@ -5,6 +5,8 @@
 
 ## ![](https://komarev.com/ghpvc/?username=samuel-2001&color=green&style=flat-square)
 
+<b/>
+
 🔭 I'm currently working on a Decentralized marketplace.
 
 💬 Ask me about JavaScript, Frontend development.
