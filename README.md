@@ -11,7 +11,7 @@
 
 💬 Ask me about JavaScript, Frontend development.
 
-📫 How to reach me: samuelify225@gmail.combb
+📫 How to reach me: samuelify225@gmail.com
 
 🌱 I am currently learning Solidity, as well as Cryptography. 
 
