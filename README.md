@@ -12,7 +12,7 @@
 
 📫 How to reach me: samuelify225@gmail.com
 
-🌱 I am currently learning Solidity, as well as Cryptography.
+🌱 I am currently learning Cryptography.
 
 👯 I'm looking to collaborate with people from all over the world.
 
